@@ -1,5 +1,5 @@
 {
-    "name": "parallelteam/laravel-draftable",
+    "name": "parallelteam/laravel-drafts",
     "description": "Add drafts, versioning, and publication workflow to any Eloquent model — ideal for content editing, previews, and rollback.",
     "keywords": [
         "laravel",

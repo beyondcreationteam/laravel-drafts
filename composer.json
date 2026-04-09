@@ -1,5 +1,5 @@
 {
-    "name": "grazulex/laravel-draftable",
+    "name": "parallel/laravel-draftable",
     "description": "Add drafts, versioning, and publication workflow to any Eloquent model — ideal for content editing, previews, and rollback.",
     "keywords": [
         "laravel",
